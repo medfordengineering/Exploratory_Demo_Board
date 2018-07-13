@@ -709,38 +709,38 @@ Looking footprint for headers.
 <wire x1="-21.59" y1="43.18" x2="-36.83" y2="43.18" width="0.127" layer="51"/>
 <wire x1="-36.83" y1="43.18" x2="-36.83" y2="45.72" width="0.127" layer="51"/>
 <wire x1="-36.83" y1="45.72" x2="-21.59" y2="45.72" width="0.127" layer="51"/>
-<pad name="RES" x="-5.08" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="RES" x="-5.334" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="3.3V" x="-7.62" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="5V" x="-10.16" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="5V" x="-10.414" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="GND@0" x="-12.7" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="GND@1" x="-15.24" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="GND@1" x="-15.494" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="VIN" x="-17.78" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="A0" x="-22.86" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="A0" x="-23.114" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="A1" x="-25.4" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="A2" x="-27.94" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="A2" x="-28.194" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="A3" x="-30.48" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="A4" x="-33.02" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="A4" x="-33.274" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="A5" x="-35.56" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <pad name="RX" x="-35.56" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="TX" x="-33.02" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="TX" x="-32.766" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D2" x="-30.48" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D3" x="-27.94" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D3" x="-27.686" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D4" x="-25.4" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D5" x="-22.86" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D5" x="-22.606" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D6" x="-20.32" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D7" x="-17.78" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D7" x="-17.526" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D8" x="-13.97" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D9" x="-11.43" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D9" x="-11.176" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D10" x="-8.89" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D11" x="-6.35" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D11" x="-6.096" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="D12" x="-3.81" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="D13" x="-1.27" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="D13" x="-1.016" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="GND@2" x="1.27" y="-3.81" drill="1.016" shape="long" rot="R270"/>
-<pad name="AREF" x="3.81" y="-3.81" drill="1.016" shape="long" rot="R270"/>
+<pad name="AREF" x="4.064" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="SDA" x="6.35" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="SCL" x="8.89" y="-3.81" drill="1.016" shape="long" rot="R270"/>
 <pad name="IOREF" x="-2.54" y="44.45" drill="1.016" shape="long" rot="R270"/>
-<pad name="NC" x="0" y="44.45" drill="1.016" shape="long" rot="R270"/>
+<pad name="NC" x="-0.254" y="44.45" drill="1.016" shape="long" rot="R270"/>
 <wire x1="-34.29" y1="15.875" x2="-34.925" y2="15.24" width="0.254" layer="51"/>
 <wire x1="-34.925" y1="15.24" x2="-38.735" y2="15.24" width="0.254" layer="51"/>
 <wire x1="-38.735" y1="15.24" x2="-39.37" y2="15.875" width="0.254" layer="51"/>
@@ -2103,7 +2103,9 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <instance part="GND11" gate="1" x="147.32" y="101.6"/>
 <instance part="GND12" gate="1" x="17.78" y="60.96"/>
 <instance part="P+7" gate="1" x="30.48" y="60.96"/>
-<instance part="B1" gate="G$1" x="38.1" y="81.28" rot="MR90"/>
+<instance part="B1" gate="G$1" x="38.1" y="81.28" smashed="yes" rot="MR90">
+<attribute name="NAME" x="58.674" y="71.628" size="1.778" layer="95" font="vector" rot="MR90"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -2327,10 +2329,10 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <label x="139.7" y="121.92" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="B1" gate="G$1" pin="D7"/>
-<wire x1="35.56" y1="93.98" x2="35.56" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="35.56" y1="106.68" x2="40.64" y2="106.68" width="0.1524" layer="91"/>
-<label x="35.56" y="106.68" size="1.778" layer="95"/>
+<pinref part="B1" gate="G$1" pin="D8"/>
+<wire x1="33.02" y1="93.98" x2="33.02" y2="109.22" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="109.22" x2="38.1" y2="109.22" width="0.1524" layer="91"/>
+<label x="33.02" y="109.22" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$1" class="0">
